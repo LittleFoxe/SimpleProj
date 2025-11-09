@@ -6,7 +6,7 @@
 # Для Windows:
 .venv\Scripts\activate
 # Для Linux/MacOS:
-source venv/bin/activate
+source .venv/bin/activate
 ```
 2. Установка зависимостей
 ```bash
