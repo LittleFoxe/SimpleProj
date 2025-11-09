@@ -62,3 +62,5 @@ curl -X PATCH "http://localhost:8000/incidents/1/status" \
 
 2. **GET**: http://localhost:8000/health \
 Эндпоинт для проверки состояния микросервиса. Отправляет пустой ответ со статусом 200.
+
+**Данные эндпоинты также можно проверить через Swagger UI или Postman**
