@@ -18,7 +18,7 @@ python src/main.py
 ```
 
 После запуска приложения документация доступна по адресам:\
-**Swagger UI**: http://localhost:8000/docs\
+**Swagger UI**: http://localhost:8000/docs \
 **ReDoc**: http://localhost:8000/redoc
 
 ## Основные эндпоинты
